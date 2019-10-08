@@ -1,0 +1,216 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+  <title> EPS Graphics | Abeel (dot) be </title>
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="EPS Graphics" />
+<meta name="keywords" content="EPS Graphics" />
+<meta name="robots" content="index,follow" />
+<link rel="alternate" type="application/rss+xml" title="RSS - EPS Graphics" href="/taxonomy/term/3/0/feed" />
+
+<link rel="shortcut icon" href="/misc/favicon.ico" type="image/x-icon" />
+   <style type="text/css" media="all">@import "/modules/forum/forum.css";</style>
+<style type="text/css" media="all">@import "/modules/node/node.css";</style>
+<style type="text/css" media="all">@import "/modules/system/defaults.css";</style>
+<style type="text/css" media="all">@import "/modules/system/system.css";</style>
+<style type="text/css" media="all">@import "/modules/user/user.css";</style>
+<style type="text/css" media="all">@import "/themes/B7/B7 Green/style.css";</style>
+   <script type="text/javascript" src="/misc/jquery.js"></script>
+<script type="text/javascript" src="/misc/drupal.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "googleanalytics": { "trackDownload": "pdf|zip|mp3" } } });</script>
+</head>
+<body  >
+<div id="all">
+<div id="header" >
+   
+         <h1 id="site-name"><a href=" / " title="Index Page"> Abeel (dot) be </a></h1>
+        <br class="clear" />
+</div>
+
+  <div id="top-nav">
+   <ul id="primary"><li class="first menu-1-1-2"><a href="/" class="menu-1-1-2">Home</a></li>
+<li class="last menu-1-2-2"><a href="/forum" class="menu-1-2-2">Forums</a></li>
+</ul>     </div>
+  
+<table id="content"><tbody style="border: none !important;">
+  <tr>
+           <td class="sidebar" id="sidebar-left">
+         <div id="block-user-1" class="block block-user">
+
+  <h2>Navigation</h2>
+
+  <div class="content">
+<ul class="menu">
+<li class="leaf"><a href="/">Home</a></li>
+<li class="expanded"><a href="/taxonomy_menu/2">OS projects</a>
+<ul class="menu">
+<li class="expanded"><a href="/java-ml" title="Java Machine Learning Library">Java-ML</a>
+<ul class="menu">
+<li class="leaf"><a href="http://sf.net/projects/java-ml/download">Download</a></li>
+<li class="leaf"><a href="http://www.abeel.be/java-ml/wiki">Documentation</a></li>
+<li class="leaf"><a href="http://users.telenet.be/abeel/java-ml/0.0.13/doc/">API docs</a></li>
+<li class="leaf"><a href="http://fisheye3.cenqua.com/browse/java-ml">Changelog</a></li>
+<li class="leaf"><a href="/node/23">Task list</a></li>
+
+</ul>
+</li>
+<li class="expanded"><a href="/ajt">Abeel Java Toolkit (AJT)</a>
+<ul class="menu">
+<li class="leaf"><a href="http://sf.net/projects/ajt/download">Download</a></li>
+<li class="leaf"><a href="http://users.telenet.be/abeel/ajt/1.8/doc/">API docs</a></li>
+<li class="leaf"><a href="/content/abeel-java-toolkit-ajt-announcement">Overview</a></li>
+
+</ul>
+</li>
+<li class="expanded"><a href="/php-agenda">PHP agenda</a>
+<ul class="menu">
+<li class="leaf"><a href="/node/8" title="Download">Download</a></li>
+<li class="leaf"><a href="/node/7">Overview</a></li>
+
+</ul>
+</li>
+<li class="collapsed"><a href="/easyjson">Easy JSON</a></li>
+<li class="collapsed"><a href="/epsgraphics">EPS Graphics</a></li>
+<li class="leaf"><a href="/taxonomy_menu/2/6">GenomeView</a></li>
+
+</ul>
+</li>
+<li class="collapsed"><a href="/taxonomy_menu/3">Other projects</a></li>
+<li class="leaf"><a href="/forum">Forums</a></li>
+<li class="leaf"><a href="/tracker">Recent posts</a></li>
+<li class="leaf"><a href="/node/add">Create content</a></li>
+<li class="leaf"><a href="/contact" title="Contact me">Contact</a></li>
+
+</ul>
+</div>
+</div>
+<div id="block-user-0" class="block block-user">
+
+  <h2>User login</h2>
+
+  <div class="content"><form action="/taxonomy/term/3?destination=taxonomy%2Fterm%2F3"  method="post" id="user-login-form">
+<div><div class="form-item">
+ <label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name"  size="15" value="" class="form-text required" />
+</div>
+<div class="form-item">
+ <label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" name="pass" id="edit-pass"  maxlength="60"  size="15"  class="form-text required" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Log in"  class="form-submit" />
+<div class="item-list"><ul><li><a href="/user/register" title="Create a new user account.">Create new account</a></li><li><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li></ul></div><input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"  />
+
+</div></form>
+</div>
+</div>
+      </td>
+             <td class="main-content" id="content-both">
+                   <h2 class="content-title"> EPS Graphics </h2>
+                                                     <!-- start main content -->
+         <div class="node  ">
+        <h2><a href=" /content/eps-graphics-library-version-1.1-released " title=" EPS Graphics Library version 1.1 released "> EPS Graphics Library version 1.1 released </a></h2>
+     <div class="content">
+          <p>We released version 1.1 of the Java EPS Graphics Library<br />
+This releases fixes a major bug in the copy constructor of the EpsGraphics object which made it impossible to use the EpsGraphics object to draw Swing component to.</p>
+  </div>
+    <div class="info">
+    Submitted by thomas on Wed, 2007-08-01 10:00.          <span class="terms">categories [ <ul class="links inline"><li class="first last taxonomy_term_3"><a href="/taxonomy/term/3" rel="tag" title="EPS Graphics" class="taxonomy_term_3 active">EPS Graphics</a></li>
+</ul> ]</span>
+              <span class="links"> <ul class="links inline"><li class="first last comment_forbidden"><span class="comment_forbidden"><a href="/user/login?destination=comment/reply/3%2523comment-form">Login</a> or <a href="/user/register?destination=comment/reply/3%2523comment-form">register</a> to post comments</span></li>
+</ul> </span>
+      </div>
+</div>
+<div class="node  ">
+        <h2><a href=" /node/14 " title=" EPS Graphics Overview "> EPS Graphics Overview </a></h2>
+     <div class="content">
+          <p>The EPS graphics  library is a rerelease of the GNU GPL library that used to be available from jibble.org.</p>
+<p>Java EPS Graphics Library started as a reworking of the source code of the EPS library that used to be available from jibble.org and was released under GNU GPL. Unfortunately the original authors decided to stop working on the GNU GPL code and moved to a commercial license.</p>
+<p>We tracked down the last version we could find that was released under GPL and started from there. Currently our library is not much more than the latest release that was made by jible.org.</p>
+  </div>
+    <div class="info">
+              <span class="terms">categories [ <ul class="links inline"><li class="first last taxonomy_term_3"><a href="/taxonomy/term/3" rel="tag" title="EPS Graphics" class="taxonomy_term_3 active">EPS Graphics</a></li>
+</ul> ]</span>
+          </div>
+</div>
+<div class="node  ">
+        <h2><a href=" /content/eps-graphics-library-version-1.0.0-released " title=" EPS Graphics Library version 1.0.0 released "> EPS Graphics Library version 1.0.0 released </a></h2>
+     <div class="content">
+          <p>We have released version 1.0.0 of the EPS Graphics Library.<br />
+This version is a rerelease of the code that was available under GNU GPL from <a href="http://jibble.org" title="http://jibble.org">http://jibble.org</a> .</p>
+<p>We have added support for an alternative color model besides the traditional RGB. The library support the CMYK color model that is often used for professional printing.</p>
+  </div>
+    <div class="info">
+    Submitted by thomas on Mon, 2007-06-04 08:00.          <span class="terms">categories [ <ul class="links inline"><li class="first last taxonomy_term_3"><a href="/taxonomy/term/3" rel="tag" title="EPS Graphics" class="taxonomy_term_3 active">EPS Graphics</a></li>
+</ul> ]</span>
+              <span class="links"> <ul class="links inline"><li class="first last comment_forbidden"><span class="comment_forbidden"><a href="/user/login?destination=comment/reply/12%2523comment-form">Login</a> or <a href="/user/register?destination=comment/reply/12%2523comment-form">register</a> to post comments</span></li>
+</ul> </span>
+      </div>
+</div>
+        <!-- end main content -->
+        </td><!-- mainContent -->
+         <td class="sidebar" id="sidebar-right">
+         <div id="block-forum-0" class="block block-forum">
+
+  <h2>Active forum topics</h2>
+
+  <div class="content"><div class="item-list"><ul><li><a href="/node/22">Upgrading the website</a></li><li><a href="/node/13">EPS Graphics FAQ</a></li></ul></div><div class="more-link"><a href="/forum" title="Read the latest forum topics.">more</a></div></div>
+</div>
+<div id="block-forum-1" class="block block-forum">
+
+  <h2>New forum topics</h2>
+
+  <div class="content"><div class="item-list"><ul><li><a href="/node/22">Upgrading the website</a></li><li><a href="/node/13">EPS Graphics FAQ</a></li></ul></div><div class="more-link"><a href="/forum" title="Read the latest forum topics.">more</a></div></div>
+</div>
+<div id="block-node-0" class="block block-node">
+
+  <h2>Syndicate</h2>
+
+  <div class="content"><a href="/rss.xml" class="feed-icon"><img src="/misc/feed.png" alt="Syndicate content" title="Syndicate content" width="16" height="16" /></a></div>
+</div>
+<div id="block-user-2" class="block block-user">
+
+  <h2>Who's new</h2>
+
+  <div class="content"><div class="item-list"><ul><li>hosokawa</li><li>JOhn van der Gaag</li><li>gpb01</li><li>prakash</li><li>claudomir</li></ul></div></div>
+</div>
+<div id="block-block-1" class="block block-block">
+
+  <h2>Visitors</h2>
+
+  <div class="content"><p><a style="border: none;" href="http://www2.clustrmaps.com/counter/maps.php?url=http://www.abeel.be" id="clustrMapsLink"><img style="border:0;" src="http://www2.clustrmaps.com/counter/index2.php?url=http://www.abeel.be" alt="webstats" /><br />
+</a></p>
+</div>
+</div>
+<div id="block-block-2" class="block block-block">
+
+  <h2>Logos</h2>
+
+  <div class="content"><p><strong>Java-ML</strong><br />
+<a href="http://sourceforge.net"><img src="http://sflogo.sourceforge.net/sflogo.php?group_id=179204&amp;type=1" width="88" height="31" border="0" alt="SourceForge.net Logo" /></a><a href="http://sourceforge.net/donate/index.php?group_id=179204"><img src="http://images.sourceforge.net/images/project-support.jpg" width="88" height="32" border="0" alt="Support This Project" /> </a></p>
+<script type="text/javascript" src="http://www.ohloh.net/projects/8582/widgets/project_thin_badge"></script><p>
+<strong>PHP-agenda</strong><br />
+<a href="http://sourceforge.net"><img src="http://sflogo.sourceforge.net/sflogo.php?group_id=177258&amp;type=1" width="88" height="31" border="0" alt="SourceForge.net Logo" /></a><a href="http://sourceforge.net/donate/index.php?group_id=177258"><img src="http://images.sourceforge.net/images/project-support.jpg" width="88" height="32" border="0" alt="Support This Project" /> </a></p>
+<p><strong>EasyJSON</strong><br />
+<a href="http://sourceforge.net"><img src="http://sflogo.sourceforge.net/sflogo.php?group_id=197291&amp;type=1" width="88" height="31" border="0" alt="SourceForge.net Logo" /></a><a href="http://sourceforge.net/donate/index.php?group_id=197291"><img src="http://images.sourceforge.net/images/project-support.jpg" width="88" height="32" border="0" alt="Support This Project" /> </a></p>
+<p><strong>EPSGraphics</strong><br />
+<a href="http://sourceforge.net"><img src="http://sflogo.sourceforge.net/sflogo.php?group_id=187020&amp;type=1" width="88" height="31" border="0" alt="SourceForge.net Logo" /></a><a href="http://sourceforge.net/donate/index.php?group_id=187020"><img src="http://images.sourceforge.net/images/project-support.jpg" width="88" height="32" border="0" alt="Support This Project" /> </a></p>
+</div>
+</div>
+    </td>
+       </tr>
+</tbody></table>
+   <div class="breadcrumb"><a href="/">Home</a> » EPS Graphics</div>  <script type="text/javascript" src="http://www.google-analytics.com/urchin.js"></script>
+<script type="text/javascript">
+_uacct = "UA-2340808-1";urchinTracker();
+</script>
+<script type="text/javascript" src="/modules/google_analytics/downloadtracker.js"></script>
+  </div>
+  <div id="footer">
+          <p> Copyright 2005-2007 (C) <a href="/contact">Thomas Abeel</a>
+ </p>
+      </div><!-- footer -->
+  </body>
+</html>
+

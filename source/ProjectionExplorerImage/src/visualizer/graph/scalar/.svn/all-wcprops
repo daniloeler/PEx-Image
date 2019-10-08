@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/graph/scalar
+END
+DistanceScalar.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/graph/scalar/DistanceScalar.java
+END
+QuerySolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/graph/scalar/QuerySolver.java
+END
+QuerySolverMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/graph/scalar/QuerySolverMatrix.java
+END

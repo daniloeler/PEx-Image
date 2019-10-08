@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/projection/lsp
+END
+ControlPointsType.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/projection/lsp/ControlPointsType.java
+END
+LSPProjection2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/projection/lsp/LSPProjection2D.java
+END
+MeshGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/projection/lsp/MeshGenerator.java
+END
+LSPProjectionView.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/projection/lsp/LSPProjectionView.java
+END
+LSPProjectionView.form
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/projection/lsp/LSPProjectionView.form
+END

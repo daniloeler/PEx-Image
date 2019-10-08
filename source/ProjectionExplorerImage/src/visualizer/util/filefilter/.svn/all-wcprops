@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/util/filefilter
+END
+PExFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/util/filefilter/PExFileFilter.java
+END
+PEXFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/util/filefilter/PEXFilter.java
+END
+CLASSESFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/util/filefilter/CLASSESFilter.java
+END
+STARTFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/util/filefilter/STARTFilter.java
+END
+XMLFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/util/filefilter/XMLFilter.java
+END
+ZIPFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/util/filefilter/ZIPFilter.java
+END
+NAMESFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/util/filefilter/NAMESFilter.java
+END
+VTKFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/util/filefilter/VTKFilter.java
+END
+SCALARFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/util/filefilter/SCALARFilter.java
+END
+LEGFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/util/filefilter/LEGFilter.java
+END
+BINFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/util/filefilter/BINFilter.java
+END
+DATAFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/util/filefilter/DATAFilter.java
+END
+PROJFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/util/filefilter/PROJFilter.java
+END
+TRAININGFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/util/filefilter/TRAININGFilter.java
+END
+DIRFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/util/filefilter/DIRFilter.java
+END
+LABELFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/util/filefilter/LABELFilter.java
+END
+CONFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/util/filefilter/CONFilter.java
+END
+JPGFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/util/filefilter/JPGFilter.java
+END
+TITLEFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/util/filefilter/TITLEFilter.java
+END
+PNGFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/util/filefilter/PNGFilter.java
+END
+DMATFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/util/filefilter/DMATFilter.java
+END
+STOPFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/util/filefilter/STOPFilter.java
+END
+EPSFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/util/filefilter/EPSFilter.java
+END
+WEIGHTFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/util/filefilter/WEIGHTFilter.java
+END

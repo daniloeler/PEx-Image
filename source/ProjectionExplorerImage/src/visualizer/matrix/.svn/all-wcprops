@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/matrix
+END
+SparseVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/matrix/SparseVector.java
+END
+DenseVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/matrix/DenseVector.java
+END
+SparseMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/matrix/SparseMatrix.java
+END
+Vector.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/matrix/Vector.java
+END
+DenseMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/matrix/DenseMatrix.java
+END
+Matrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/matrix/Matrix.java
+END
+MatrixUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/matrix/MatrixUtils.java
+END
+MatrixFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/matrix/MatrixFactory.java
+END

@@ -1,0 +1,25 @@
+SELECT.CONTENT.DOCUMENT = SELECT content FROM Documents WHERE id = ? AND id_collection = ?
+SELECT.NGRAMS.DOCUMENT = SELECT ngrams FROM Documents WHERE id = ? AND id_collection = ?
+SELECT.NGRAMS.COLLECTION = SELECT ngrams FROM Collections WHERE id = ?
+SELECT.ID.DOCUMENTS = SELECT id FROM Documents WHERE id_collection = ?
+SELECT.DATE.DOCUMENT = SELECT date FROM Documents WHERE id = ? AND id_collection = ?
+SELECT.COLLECTION.ID = SELECT MAX (id) FROM Collections
+SELECT.COLLECTION.BY.NAME = SELECT id FROM Collections WHERE name = ?
+SELECT.NUMBER.DOCUMENTS = SELECT COUNT(*) AS id FROM Documents WHERE id_collection = ?
+SELECT.COLLECTIONS = SELECT name FROM Collections
+SELECT.CLASS.DOCUMENTS = SELECT id, class FROM Documents WHERE id_collection = ?
+SELECT.TITLE.DOCUMENTS = SELECT id, title FROM Documents WHERE id_collection = ?
+SELECT.NUMBER.GRAMS = SELECT nrGrams FROM Collections WHERE id = ?
+
+DROP.TABLE.DOCUMENTS = DROP TABLE Documents IF EXISTS
+DROP.TABLE.COLLECTIONS = DROP TABLE Collections IF EXISTS
+
+REMOVE.COLLECTION = DELETE FROM Collections WHERE name = ?
+
+CREATE.TABLE.COLLECTIONS = CREATE TABLE Collections (id INTEGER NOT NULL, name VARCHAR(100) NOT NULL UNIQUE, ngrams LONGVARBINARY, nrGrams INTEGER, PRIMARY KEY(id))
+CREATE.TABLE.DOCUMENTS = CREATE TABLE Documents (id INTEGER NOT NULL, id_collection INTEGER NOT NULL, title LONGVARCHAR, content LONGVARCHAR, ngrams LONGVARBINARY, class FLOAT, Date date, PRIMARY KEY (id, id_collection), FOREIGN KEY (id_collection) REFERENCES Collections (id) ON DELETE CASCADE)
+
+INSERT.COLLECTION = INSERT INTO Collections (id, name, nrgrams) VALUES (?, ?, ?)
+INSERT.DOCUMENT = INSERT INTO Documents (id, id_collection, title, content, ngrams, class, date) VALUES (?, ?, ?, ?, ?, ?, ?)
+
+UPDATE.NGRAMS.COLLECTION = UPDATE Collections SET ngrams = ? WHERE (id = ?)

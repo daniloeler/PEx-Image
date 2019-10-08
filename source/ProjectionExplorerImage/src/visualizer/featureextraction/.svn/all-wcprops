@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/featureextraction
+END
+CircularMask.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/featureextraction/CircularMask.java
+END
+DFT1D.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/featureextraction/DFT1D.java
+END
+DFT2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/featureextraction/DFT2D.java
+END
+Complex.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/featureextraction/Complex.java
+END
+GenericMask.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/featureextraction/GenericMask.java
+END
+FeatureExtractionUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/featureextraction/FeatureExtractionUtil.java
+END
+ExtractionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/featureextraction/ExtractionManager.java
+END
+Feature.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/featureextraction/Feature.java
+END
+FullMask.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/featureextraction/FullMask.java
+END
+PExImageFeatures.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/featureextraction/PExImageFeatures.java
+END

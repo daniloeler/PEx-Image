@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/datamining/clustering
+END
+Clustering.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/datamining/clustering/Clustering.java
+END
+Kmedoids.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/datamining/clustering/Kmedoids.java
+END
+BKmeans.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/datamining/clustering/BKmeans.java
+END
+HierarchicalClusteringType.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/datamining/clustering/HierarchicalClusteringType.java
+END
+BKmedoids.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/datamining/clustering/BKmedoids.java
+END
+MultidimensionalClusteringView.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/datamining/clustering/MultidimensionalClusteringView.java
+END
+Jdbscan2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/datamining/clustering/Jdbscan2D.java
+END
+MultidimensionalClusteringView.form
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/datamining/clustering/MultidimensionalClusteringView.form
+END
+HierarchicalClustering.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/datamining/clustering/HierarchicalClustering.java
+END
+Kmeans.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/datamining/clustering/Kmeans.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/featureselection
+END
+NeuralNetworkClassifierView.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/featureselection/NeuralNetworkClassifierView.java
+END
+NeuralNetworkClassifierView.form
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/featureselection/NeuralNetworkClassifierView.form
+END
+PointsSelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/featureselection/PointsSelection.java
+END
+SelectionUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/featureselection/SelectionUtil.java
+END
+FeatureSelectionView.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/featureselection/FeatureSelectionView.java
+END
+SalienceSelectorThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/featureselection/SalienceSelectorThread.java
+END
+FeatureSelectionView.form
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/featureselection/FeatureSelectionView.form
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/textprocessing/stemmer
+END
+SnowBallWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/textprocessing/stemmer/SnowBallWrapper.java
+END
+StemmerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/textprocessing/stemmer/StemmerFactory.java
+END
+NullStemmer.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/textprocessing/stemmer/NullStemmer.java
+END
+Stemmer.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/textprocessing/stemmer/Stemmer.java
+END
+StemmerType.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/textprocessing/stemmer/StemmerType.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/view/legend
+END
+LegendTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/view/legend/LegendTableModel.java
+END
+LegendView.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/view/legend/LegendView.java
+END
+LegendView.form
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/view/legend/LegendView.form
+END
+LegendTableRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/view/legend/LegendTableRenderer.java
+END
+Legend.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/view/legend/Legend.java
+END

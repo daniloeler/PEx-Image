@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/config
+END
+database.properties
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/config/database.properties
+END
+system.properties
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/config/system.properties
+END
+stopwords_pt-br.spw
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/config/stopwords_pt-br.spw
+END
+stopwords_articles.spw
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/config/stopwords_articles.spw
+END
+stopwords_eng.spw
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/config/stopwords_eng.spw
+END
+startwords.stw
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/config/startwords.stw
+END
+stopwords_news.spw
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/config/stopwords_news.spw
+END
+sql.properties
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/config/sql.properties
+END
+stopwords_patents.spw
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/config/stopwords_patents.spw
+END
+stopwords.spw
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/config/stopwords.spw
+END

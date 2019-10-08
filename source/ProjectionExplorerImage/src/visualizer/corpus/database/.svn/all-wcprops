@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/corpus/database
+END
+DataBaseCorpus.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/corpus/database/DataBaseCorpus.java
+END
+ZipFileImporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/corpus/database/ZipFileImporter.java
+END
+CreateDataBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/corpus/database/CreateDataBase.java
+END
+CollectionsManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/corpus/database/CollectionsManager.java
+END
+ConnectionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/corpus/database/ConnectionManager.java
+END
+SqlManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/corpus/database/SqlManager.java
+END

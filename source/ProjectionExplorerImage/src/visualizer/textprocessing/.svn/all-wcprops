@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/textprocessing
+END
+Stopword.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/textprocessing/Stopword.java
+END
+TermExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/textprocessing/TermExtractor.java
+END
+Ngram.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/textprocessing/Ngram.java
+END
+Preprocessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/textprocessing/Preprocessor.java
+END
+Startword.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/textprocessing/Startword.java
+END
+WeightedWord.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/textprocessing/WeightedWord.java
+END

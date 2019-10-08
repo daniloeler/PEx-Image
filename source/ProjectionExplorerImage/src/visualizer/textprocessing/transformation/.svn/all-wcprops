@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/textprocessing/transformation
+END
+NTFIDFTransformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/textprocessing/transformation/NTFIDFTransformation.java
+END
+MatrixTransformationFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/textprocessing/transformation/MatrixTransformationFactory.java
+END
+TFIDFTransformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/textprocessing/transformation/TFIDFTransformation.java
+END
+NoneTransformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/textprocessing/transformation/NoneTransformation.java
+END
+MatrixTransformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/textprocessing/transformation/MatrixTransformation.java
+END
+MatrixTransformationType.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/textprocessing/transformation/MatrixTransformationType.java
+END
+NTFTransformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/textprocessing/transformation/NTFTransformation.java
+END

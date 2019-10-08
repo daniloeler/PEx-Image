@@ -1,0 +1,28 @@
+#Recording the system's properties
+#Wed Sep 30 14:34:49 BRT 2009
+XML.DIR=C\:\\MATLAB\\R2008a\\work\\SIB09\\experimentos\\Gabor Script
+TOOL.VERSION=1.0.0
+TRI.DIR=G\:\\User\\users\\Documents\\TMP\\Baremons
+DMAT.DIR=D\:\\DadosPexImage\\Sequences\\oldFiles
+LEG.DIR=C\:\\Documents and Settings\\Fernando Paulovich\\Desktop\\IEEECGA
+UNZIP.DIR=C\:\\Users\\User\\Documents\\My Dropbox\\Programs\\2009\\ProjectionExplorerForImaging\\tempDir
+REG.EXPR=[0-9\\-_]*[\\p{L}]+[0-9\\-_]*[\\p{L}]+[0-9\\-_]*
+ZIP.DIR=D\:\\DadosPexImage\\medical
+CON.DIR=C\:\\Documents and Settings\\paulovich\\Mijn documenten
+PROJ.DIR=D\:\\My Documents\\FERNANDO
+CORPORA.DIR=G\:\\User\\users\\Documents\\FERNANDO\\Corpora
+DIR.DIR=D\:\\My Documents\\FERNANDO
+SPW.DIR=D\:\\My Documents\\FERNANDO\\Codigo\\java\\PROJECTION_EXPLORER\\latest_release\\ProjectionExplorerNG\\config
+NAMES.DIR=D\:\\DadosPexImage\\Sequences\\oldFiles
+SCILABCODE.DIR=C\:\\Users\\User\\Documents\\My Dropbox\\Programs\\2009\\ProjectionExplorerForImaging\\lib\\scilabCode
+POINTS.DIR=C\:\\MATLAB\\R2008a\\work\\SIB09\\experimentos\\Gabor Script
+SCALAR.DIR=C\:\\MATLAB\\R2008a\\work\\SIB09
+STW.FILE=config/startwords.stw
+FIG.DIR=D\:\\My Documents\\FERNANDO
+TIT.DIR=G\:\\User\\users\\Documents\\FERNANDO
+BINARY.DIR=D\:\\DANILO\\DOUTORADO\\ISABEL\\TS25
+FEATURE.DIR=C\:\\Users\\User\\Documents\\My Dropbox\\Programs\\2009\\ProjectionExplorerForImaging\\lib\\featureSelection
+SPW.FILE=config/stopwords_eng.spw
+LABEL.DIR=G\:\\User\\users\\Documents\\TMP\\Baremons
+VTK.DIR=G\:\\User\\users\\Documents\\FERNANDO
+SPLASH.DELAY=3000

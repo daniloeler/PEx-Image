@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+X-COMMENT: Main-Class will be added automatically by build
+Class-Path: lib/ij.jar lib/jlfgr-1_0.jar lib/googleapi.jar lib/colt.jar lib/images.jar lib/PDFBox-0.7.2.jar lib/epsgraphics-1.1.jar lib/jcommon-1.0.12.jar lib/jfreechart-1.0.9.jar lib/h2.jar lib/lspsolver.jar lib/snowball.jar config/system.properties

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/dimensionreduction
+END
+PCA.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/dimensionreduction/PCA.java
+END
+DimensionalityReduction.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/dimensionreduction/DimensionalityReduction.java
+END
+DimensionalityReductionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/dimensionreduction/DimensionalityReductionType.java
+END
+Fastmap.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/dimensionreduction/Fastmap.java
+END
+KMeansReduction.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/dimensionreduction/KMeansReduction.java
+END
+DimensionalityReductionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/dimensionreduction/DimensionalityReductionFactory.java
+END

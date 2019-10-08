@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/projection/distance
+END
+CosineBased.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/projection/distance/CosineBased.java
+END
+DistanceMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/projection/distance/DistanceMatrix.java
+END
+CityBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/projection/distance/CityBlock.java
+END
+InfinityNorm.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/projection/distance/InfinityNorm.java
+END
+Dissimilarity.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/projection/distance/Dissimilarity.java
+END
+DistanceMatrixFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/projection/distance/DistanceMatrixFactory.java
+END
+DissimilarityType.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/projection/distance/DissimilarityType.java
+END
+ExtendedJaccard.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/projection/distance/ExtendedJaccard.java
+END
+Euclidean.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/projection/distance/Euclidean.java
+END
+DissimilarityFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/projection/distance/DissimilarityFactory.java
+END
+Mahalanobis.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/projection/distance/Mahalanobis.java
+END

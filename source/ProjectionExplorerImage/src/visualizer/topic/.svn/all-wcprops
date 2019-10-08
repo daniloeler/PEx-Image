@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/topic
+END
+RulesTopicGrid.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/topic/RulesTopicGrid.java
+END
+StringBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/topic/StringBox.java
+END
+MultipleRuleView.form
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/topic/MultipleRuleView.form
+END
+TopicRuleTFSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/topic/TopicRuleTFSettings.java
+END
+TopicClusters.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/topic/TopicClusters.java
+END
+TopicRuleTFSettings.form
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/topic/TopicRuleTFSettings.form
+END
+RuleTopic.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/topic/RuleTopic.java
+END
+TopicFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/topic/TopicFactory.java
+END
+TopicData.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/topic/TopicData.java
+END
+CovarianceTopic.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1586/sources/trunk/ProjectionExplorerImage/src/visualizer/topic/CovarianceTopic.java
+END
+CovarianceTopicSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/topic/CovarianceTopicSettings.java
+END
+CovarianceTopicSettings.form
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/topic/CovarianceTopicSettings.form
+END
+MultipleRuleView.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/topic/MultipleRuleView.java
+END
+Topic.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/topic/Topic.java
+END

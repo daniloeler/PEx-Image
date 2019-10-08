@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/tools/apriori
+END
+TopicInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/tools/apriori/TopicInterface.java
+END
+HashTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/tools/apriori/HashTree.java
+END
+RuleSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/tools/apriori/RuleSet.java
+END
+Transaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/tools/apriori/Transaction.java
+END
+ItemSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/tools/apriori/ItemSet.java
+END
+ItemSetsWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/tools/apriori/ItemSetsWriter.java
+END
+NLPTools.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/tools/apriori/NLPTools.java
+END
+ItemRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/tools/apriori/ItemRef.java
+END
+MyTreeNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/tools/apriori/MyTreeNode.java
+END
+StemDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/tools/apriori/StemDescription.java
+END
+SelectedApriori.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/tools/apriori/SelectedApriori.java
+END

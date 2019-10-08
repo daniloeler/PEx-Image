@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/matrix/normalization
+END
+NormalizeColumns.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/matrix/normalization/NormalizeColumns.java
+END
+NoneNormalization.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/matrix/normalization/NoneNormalization.java
+END
+Normalization.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/matrix/normalization/Normalization.java
+END
+NormalizationType.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/matrix/normalization/NormalizationType.java
+END
+NormalizeRows.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/matrix/normalization/NormalizeRows.java
+END
+NormalizationFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/matrix/normalization/NormalizationFactory.java
+END
+Standardization.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/matrix/normalization/Standardization.java
+END

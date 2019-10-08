@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/wizard
+END
+GeneralParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/wizard/GeneralParameters.java
+END
+ProjectionDistanceChoice.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/wizard/ProjectionDistanceChoice.java
+END
+DimensionReduction.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/wizard/DimensionReduction.java
+END
+Preprocessing.form
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/wizard/Preprocessing.form
+END
+DataSourceChoice.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/wizard/DataSourceChoice.java
+END
+ProjectionWizardCore.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/wizard/ProjectionWizardCore.java
+END
+ProjectionView.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/wizard/ProjectionView.java
+END
+ProjectionWizardView.form
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/wizard/ProjectionWizardView.form
+END
+WizardPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/wizard/WizardPanel.java
+END
+Preprocessing.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/wizard/Preprocessing.java
+END
+GeneralParameters.form
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/wizard/GeneralParameters.form
+END
+ProjectionDistanceChoice.form
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/wizard/ProjectionDistanceChoice.form
+END
+DimensionReduction.form
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/wizard/DimensionReduction.form
+END
+DataSourceChoice.form
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/wizard/DataSourceChoice.form
+END
+ProjectionWizardView.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/wizard/ProjectionWizardView.java
+END

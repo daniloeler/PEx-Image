@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/util
+END
+PointsReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/util/PointsReader.java
+END
+Delaunay.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/util/Delaunay.java
+END
+TextFromPDF.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/util/TextFromPDF.java
+END
+ScalarNeighbors.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/util/ScalarNeighbors.java
+END
+Prim.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/util/Prim.java
+END
+Converter.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/util/Converter.java
+END
+MSTEdges.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/util/MSTEdges.java
+END
+Dijkstra.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/util/Dijkstra.java
+END
+ScilabConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/util/ScilabConnection.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/util/Util.java
+END
+SaveDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/util/SaveDialog.java
+END
+ImageUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/util/ImageUtil.java
+END
+ApproxKNN.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/util/ApproxKNN.java
+END
+OpenDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/util/OpenDialog.java
+END
+LZOCompressor.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/util/LZOCompressor.java
+END
+KNN.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/util/KNN.java
+END
+PExConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/util/PExConstants.java
+END
+Pair.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/util/Pair.java
+END
+SystemPropertiesManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/util/SystemPropertiesManager.java
+END
+OldPointsReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/util/OldPointsReader.java
+END

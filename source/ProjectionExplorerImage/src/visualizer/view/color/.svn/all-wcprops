@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/view/color
+END
+LinearGrayScale.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/view/color/LinearGrayScale.java
+END
+ColorScale.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/view/color/ColorScale.java
+END
+ColorScalePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/view/color/ColorScalePanel.java
+END
+ColorTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/view/color/ColorTable.java
+END
+LocsScale.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/view/color/LocsScale.java
+END
+HeatedObjectScale.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/view/color/HeatedObjectScale.java
+END
+RainbowScale.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/view/color/RainbowScale.java
+END
+UndefinedScale.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/view/color/UndefinedScale.java
+END
+GrayScale.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/view/color/GrayScale.java
+END
+ColorScaleChange.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/view/color/ColorScaleChange.java
+END
+ColorScaleChange.form
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/view/color/ColorScaleChange.form
+END

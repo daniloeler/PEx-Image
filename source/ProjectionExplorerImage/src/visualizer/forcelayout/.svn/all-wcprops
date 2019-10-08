@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/forcelayout
+END
+SpringForce.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/forcelayout/SpringForce.java
+END
+Spring.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/forcelayout/Spring.java
+END
+ForceDirectLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/forcelayout/ForceDirectLayout.java
+END
+ForceData.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/forcelayout/ForceData.java
+END
+RungeKuttaIntegrator.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/forcelayout/RungeKuttaIntegrator.java
+END
+NBodyForce.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/forcelayout/NBodyForce.java
+END
+DragForce.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/forcelayout/DragForce.java
+END
+ForceLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/forcelayout/ForceLayout.java
+END
+Force.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/forcelayout/Force.java
+END
+ForceSimulator.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/forcelayout/ForceSimulator.java
+END

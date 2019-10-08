@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/datamining/dataanalysis
+END
+DistanceHistogramView.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/datamining/dataanalysis/DistanceHistogramView.java
+END
+MessageDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/datamining/dataanalysis/MessageDialog.java
+END
+NeighborhoodPreservationView.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/datamining/dataanalysis/NeighborhoodPreservationView.java
+END
+SimilarityMatrixView.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/datamining/dataanalysis/SimilarityMatrixView.java
+END
+NeighborhoodHitView.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/datamining/dataanalysis/NeighborhoodHitView.java
+END
+DistanceHistogram.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/datamining/dataanalysis/DistanceHistogram.java
+END
+NeighborhoodPreservation.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/datamining/dataanalysis/NeighborhoodPreservation.java
+END
+SimilarityMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/datamining/dataanalysis/SimilarityMatrix.java
+END
+NeighborhoodHit.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/datamining/dataanalysis/NeighborhoodHit.java
+END
+CalculateStressView.form
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/datamining/dataanalysis/CalculateStressView.form
+END
+CreateLineGraph.form
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/datamining/dataanalysis/CreateLineGraph.form
+END
+KruskalStress.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/datamining/dataanalysis/KruskalStress.java
+END
+Stress.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/datamining/dataanalysis/Stress.java
+END
+DistanceHistogramView.form
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/datamining/dataanalysis/DistanceHistogramView.form
+END
+MessageDialog.form
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/datamining/dataanalysis/MessageDialog.form
+END
+NeighborhoodPreservationView.form
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/datamining/dataanalysis/NeighborhoodPreservationView.form
+END
+SimilarityMatrixView.form
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/datamining/dataanalysis/SimilarityMatrixView.form
+END
+NeighborhoodHitView.form
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/datamining/dataanalysis/NeighborhoodHitView.form
+END
+DistanceHistogram.form
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/datamining/dataanalysis/DistanceHistogram.form
+END
+NeighborhoodPreservation.form
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/datamining/dataanalysis/NeighborhoodPreservation.form
+END
+CalculateStressView.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/datamining/dataanalysis/CalculateStressView.java
+END
+CreateLineGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/datamining/dataanalysis/CreateLineGraph.java
+END
+SimilarityMatrix.form
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/datamining/dataanalysis/SimilarityMatrix.form
+END
+NeighborhoodHit.form
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/datamining/dataanalysis/NeighborhoodHit.form
+END
+SammonStress.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/32/sources/trunk/ProjectionExplorerImage/src/visualizer/datamining/dataanalysis/SammonStress.java
+END
