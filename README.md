@@ -3,7 +3,11 @@ Projection Explorer for Images (PEx-Image)
 
 Multidimensional  Visualization  techniques  are invaluable tools for analysis of structured and unstructured data  with  variable  dimensionality. Projection Explorer for Images (PEx-Image) is a tool aimed at supporting analysis of image collections. The tool supports a methodology that employs interactive visualizations to aid user-driven feature detection and classification tasks, thus offering improved analysis and exploration capabilities. The visual mappings employ similarity-based multidimensional projections and point placement to layout the data on a plane for visual exploration. The interaction mechanisms of PEx-Image is focused on image datasets.
 
-If you use PEx-Image, please reference this paper
+# Directories
+souce - PEx-Image source code build in Netbeans
+datasets - Image datasets and feature spaces used in some experiments
+
+If you use PEx-Image, please cite this paper
 
 D. M. Eler, M. Y. Nakazaki, F. V. Paulovich, D. P. Santos, G. F. Andery,
 M. C. F. Oliveira, J. Batista Neto, and R. Minghim, “Visual analysis of
