@@ -5,10 +5,10 @@ Multidimensional  Visualization  techniques  are invaluable tools for analysis o
 
 # Directories
 souce - PEx-Image source code build in Netbeans
-datasets - Image datasets and feature spaces used in some experiments
+datasets - <<under contruction>> Image datasets and feature spaces used in some experiments
 
 # Paper
-Please cite this paper
+Please, cite this paper
 
 D. M. Eler, M. Y. Nakazaki, F. V. Paulovich, D. P. Santos, G. F. Andery,
 M. C. F. Oliveira, J. Batista Neto, and R. Minghim, “Visual analysis of
