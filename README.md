@@ -17,3 +17,11 @@ image collections,” The Visual Computer, vol. 25, no. 10, pp. 923–937,
 Sep. 2009
 
 https://link.springer.com/article/10.1007/s00371-009-0368-7
+
+# Warning
+
+PEx-Image will extract features when a zip file with images is selected (i.e., image source), however, this method is too slow.
+For example, the extraction can take more than one minute per image. Probably, the main issue is my implementation of Fourier Transform.
+I have a matlab implementation that runs too much faster, if you want it, please, let me know.
+
+https://daniloeler.github.io/

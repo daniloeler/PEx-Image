@@ -84,8 +84,8 @@ public class ProjectionWizardCore {
                 if (direction == ProjectionWizardCore.NEXT_STATE) {
                     if (pdata.getSourceType() == SourceType.IMAGES) {
                         // janela de configuracao de parametro de extracao
-                        //this.currentState = ProjectionWizardCore.EXTRACTION_STATE;
-                        //return this.projDistView.reset();
+                        this.currentState = ProjectionWizardCore.EXTRACTION_STATE;
+                        return this.projDistView.reset();
                     } else {
                         this.currentState = ProjectionWizardCore.PROJ_DIST_STATE;
                         return this.projDistView.reset();

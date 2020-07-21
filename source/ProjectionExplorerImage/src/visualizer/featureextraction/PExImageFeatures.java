@@ -58,6 +58,7 @@ public class PExImageFeatures extends Feature{
         mask2.setMask( FeatureExtractionUtil.subtractMask1FromMask2( mask1.getMask(), mask2.getMask() ) );
         //mask1 is the proper mask1
         
+        //System.out.println("Starting Fourier Transform");
         DFT2D dft2d = new DFT2D(matrix);
         dft2d.execute();
         double[][] matrixAux = new double[matrix.length][matrix[0].length];
