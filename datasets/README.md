@@ -3,6 +3,9 @@ This folder contains image datasets, features spaces and distance matrix
 
 Brodatz folder contains a subset of the classical texture of Brodtaz dataset with features vectores extracted from the image dataset.
 
+Fruits folder contains a fruit dataset and features computed with PEx-Image features.
+For more information about fruit dataset see: https://github.com/daniloeler/fruitdataset
+For more information about PEx-Image features see: PExImage-Features.pdf
 
 
 # Paper
