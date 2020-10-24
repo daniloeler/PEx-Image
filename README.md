@@ -18,6 +18,9 @@ Sep. 2009
 
 https://link.springer.com/article/10.1007/s00371-009-0368-7
 
+# Video
+In Portuguese: https://youtu.be/UQzFuMXGxv0
+
 # Warning
 
 PEx-Image will extract features when a zip file with images is selected (i.e., image source), however, this method is too slow.
