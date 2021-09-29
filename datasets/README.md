@@ -5,6 +5,9 @@ Brodatz folder contains a subset of the classical texture of Brodtaz dataset wit
 
 Fruits folder contains a fruit dataset and features computed with PEx-Image features.
 For more information about fruit dataset see: https://github.com/daniloeler/fruitdataset
+
+Medical folder contains a 540 MRI images divided in 12 classes and features computed with PEx-Image features.
+
 For more information about PEx-Image features see: PExImage-Features.pdf
 
 
